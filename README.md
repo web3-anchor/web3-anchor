@@ -1,2 +1,3 @@
 # web3-anchor
-Simplifying web3 for a decentralized future.
+
+_Simplifying web3 for a decentralized future._
